@@ -187,12 +187,6 @@ This pathway decodes actions directly from video-native representations, without
 - [Video Generators are Robot Policies](https://arxiv.org/abs/2508.00795) (arXiv 2025)  
   Conditions action generation on intermediate video-network features, treating video generators as policy backbones.
 
-#### Adjacent Method
-
-- **This&That: Video-to-Action Behavioral Cloning**  
-  Mentioned as a planning- or behavior-cloning-adjacent method in the survey figure.  
-  Note: it is kept separate from the core direct-action-head group to avoid conflating adjacent behavior-cloning formulations with the main interface form.
-
 ---
 
 ### Unified Video-to-Action Generative Models
