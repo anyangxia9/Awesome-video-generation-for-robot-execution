@@ -33,9 +33,7 @@ The list focuses on methods where generated videos, predicted visual futures, or
 - [Background and Related Foundations](#background-and-related-foundations)
   - [Visual Foresight and Video-Prediction-Based Planning](#visual-foresight-and-video-prediction-based-planning)
   - [Action-Readable Representation Learning](#action-readable-representation-learning)
-- [Contributing](#contributing)
-- [Citation](#citation)
-
+    
 ---
 
 ## Overview
