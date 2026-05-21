@@ -66,7 +66,10 @@ Execution-oriented video generation requires not only large-scale video data, bu
 
 ### Supervision Expansion
 
-- [MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations](https://proceedings.mlr.press/v229/mandlekar23a.html) (CoRL 2023)  
+- [MimicGen: A Data Generation System for Scalable Robot Learning using Human Demonstrations](https://openreview.net/forum?id=dk-2R1f_LR) (CoRL 2023)  
+  [![Star](https://img.shields.io/github/stars/NVlabs/mimicgen.svg?style=social&label=Star)](https://github.com/NVlabs/mimicgen)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17596)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mimicgen.github.io/) 
   Programmatic demonstration expansion for scalable robot learning.
 
 - [AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation](https://openreview.net/forum?id=JVkdSi7Ekg) (ICLR 2025)  
